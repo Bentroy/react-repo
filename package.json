@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "web-vitals": "^4.2.4"
+    "vitals": "^0.1.2",
+    "web": "^0.0.2"
   }
 }
